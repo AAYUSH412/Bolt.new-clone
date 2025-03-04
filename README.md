@@ -1,4 +1,4 @@
-# Bolt.new 🚀
+# Bolt.new Clone 🚀
 
 AI-Powered Website Builder with Live Preview ⚡
 
@@ -28,7 +28,7 @@ Bolt.new is a cutting-edge web application that transforms your ideas into funct
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bolt.new.git
+https://github.com/AAYUSH412/Bolt.new-clone.git
 cd bolt.new
 ```
 
